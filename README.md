@@ -13,15 +13,16 @@ A sleek, interactive web application built with **Python**, **Streamlit**, **Sci
     *  **Red:** Negatively Skewed ($p > 0.5$)
     * Illustration is:
     <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/879df86d-e9bb-4c0e-9b8e-70df6d08b9d7" />
---
+
     * **Blue:** Positively Skewed ($p < 0.5$)
     * The illustration is:
     <img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/565faf24-a835-4e51-a7f3-9bc38c0de7de" />
---
+
 
     *  **Green:** Symmetric ($p = 0.5$)
     * The illustraion for n=50 and p=0.50
-      <img width="1906" height="932" alt="image" src="https://github.com/user-attachments/assets/3d4eafa9-185c-47d7-aa1c-ae5d7e373a9d" />
+      <img width="1906" height="932" alt="image" src="https://github.com/user-attachments/assets/a7041a5d-31f5-459d-b42a-991097513adc" />
+
 
 * **Statistical Summary:** Displays the Mean ($\mu$), Variance ($\sigma^2$), and Standard Deviation ($\sigma$) automatically.
 * **Interactive Tooltips:** Hover over any bar to see the exact probability $P(X=x)$.
