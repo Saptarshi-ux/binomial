@@ -35,4 +35,5 @@ git clone [https://github.com/Saptarshi-ux/binomial.git](https://github.com/Sapt
 cd binomial
 ```
 ##  For Video Illustration:
-Go to my LinkedIn post: https://www.linkedin.com/posts/saptarshi-sb1729_machinelearning-python-softwareengineering-ugcPost-7436285197483937793-B07-?utm_source=share&utm_medium=member_desktop&rcm=ACoAACoprSABKFy3NMt74IpdbRIfgrzHaWvLoQo
+Go to my LinkedIn post: 
+https://url-shortener.me/GPB3
